@@ -57,58 +57,6 @@
       "url": "css\/font\/quicksand.css"
     },
     {
-      "hash": "sha256-M+xOz7N1bk2x+EGU7DPysbcYRJnNZD7bPSpSmnIiD5c=",
-      "url": "css\/img\/bike.svg"
-    },
-    {
-      "hash": "sha256-J8bI39xWe9Fm97VkS1xNnczlda+U8dJUm1n\/2siVh3U=",
-      "url": "css\/img\/icon-512.png"
-    },
-    {
-      "hash": "sha256-hkh3BD3nyeWVXaZzRFP2udaAmJckS86cNYB4N+SgJp0=",
-      "url": "css\/img\/logo.svg"
-    },
-    {
-      "hash": "sha256-ClhS5QIR6HRDtafjtkQB0OFkifg6tifULjmT7pQ9rv8=",
-      "url": "css\/img\/pizza-slice.svg"
-    },
-    {
-      "hash": "sha256-9Ex8BMRioEed6rxUtkQhfPlEebjK2ubLL4xC6PYwXvQ=",
-      "url": "css\/img\/pizzas\/bacon.jpg"
-    },
-    {
-      "hash": "sha256-NTUx5fBBAmo8Ma66YojIJK7y5EN1AbU7jqLv1M0rr0Y=",
-      "url": "css\/img\/pizzas\/brit.jpg"
-    },
-    {
-      "hash": "sha256-8vrlzs8EUrPhB0bP1XE5oXneHikQu82q50rG135\/FiM=",
-      "url": "css\/img\/pizzas\/cheese.jpg"
-    },
-    {
-      "hash": "sha256-Elkoy\/lY5TfdxJlllnyejZJ8RMdnFDgSNjrr+wNCCvg=",
-      "url": "css\/img\/pizzas\/margherita.jpg"
-    },
-    {
-      "hash": "sha256-IOiiSOlQp3Rwe7jff8jNnccbH\/dNpdDF0hir8NO4RfQ=",
-      "url": "css\/img\/pizzas\/meaty.jpg"
-    },
-    {
-      "hash": "sha256-eysziUs9onNSmyIXD5pSGMUEDy4SJvpvUFcnpSdHUgI=",
-      "url": "css\/img\/pizzas\/mushroom.jpg"
-    },
-    {
-      "hash": "sha256-wAhfkGNJ67V8e1c7m4Rs4E1LIcLvlRHujfb8OZljO80=",
-      "url": "css\/img\/pizzas\/pepperoni.jpg"
-    },
-    {
-      "hash": "sha256-1uIm\/dZEjXGjQWMAdcHAehi5c0z\/FjYhqCdTDAdAz\/Y=",
-      "url": "css\/img\/pizzas\/salad.jpg"
-    },
-    {
-      "hash": "sha256-3klbU3YdAQtsERKu+TV\/CG8qzmU8\/O9OYEE6IPcMtdU=",
-      "url": "css\/img\/user.svg"
-    },
-    {
       "hash": "sha256-jA4J4h\/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=",
       "url": "css\/open-iconic\/FONT-LICENSE"
     },
@@ -149,7 +97,59 @@
       "url": "css\/site.css"
     },
     {
-      "hash": "sha256-2lPFgUUUHU0SC8A4oYF8PMvsSuW74sMJh6P4uvYcnPU=",
+      "hash": "sha256-M+xOz7N1bk2x+EGU7DPysbcYRJnNZD7bPSpSmnIiD5c=",
+      "url": "img\/bike.svg"
+    },
+    {
+      "hash": "sha256-J8bI39xWe9Fm97VkS1xNnczlda+U8dJUm1n\/2siVh3U=",
+      "url": "img\/icon-512.png"
+    },
+    {
+      "hash": "sha256-hkh3BD3nyeWVXaZzRFP2udaAmJckS86cNYB4N+SgJp0=",
+      "url": "img\/logo.svg"
+    },
+    {
+      "hash": "sha256-ClhS5QIR6HRDtafjtkQB0OFkifg6tifULjmT7pQ9rv8=",
+      "url": "img\/pizza-slice.svg"
+    },
+    {
+      "hash": "sha256-9Ex8BMRioEed6rxUtkQhfPlEebjK2ubLL4xC6PYwXvQ=",
+      "url": "img\/pizzas\/bacon.jpg"
+    },
+    {
+      "hash": "sha256-NTUx5fBBAmo8Ma66YojIJK7y5EN1AbU7jqLv1M0rr0Y=",
+      "url": "img\/pizzas\/brit.jpg"
+    },
+    {
+      "hash": "sha256-8vrlzs8EUrPhB0bP1XE5oXneHikQu82q50rG135\/FiM=",
+      "url": "img\/pizzas\/cheese.jpg"
+    },
+    {
+      "hash": "sha256-Elkoy\/lY5TfdxJlllnyejZJ8RMdnFDgSNjrr+wNCCvg=",
+      "url": "img\/pizzas\/margherita.jpg"
+    },
+    {
+      "hash": "sha256-IOiiSOlQp3Rwe7jff8jNnccbH\/dNpdDF0hir8NO4RfQ=",
+      "url": "img\/pizzas\/meaty.jpg"
+    },
+    {
+      "hash": "sha256-eysziUs9onNSmyIXD5pSGMUEDy4SJvpvUFcnpSdHUgI=",
+      "url": "img\/pizzas\/mushroom.jpg"
+    },
+    {
+      "hash": "sha256-wAhfkGNJ67V8e1c7m4Rs4E1LIcLvlRHujfb8OZljO80=",
+      "url": "img\/pizzas\/pepperoni.jpg"
+    },
+    {
+      "hash": "sha256-1uIm\/dZEjXGjQWMAdcHAehi5c0z\/FjYhqCdTDAdAz\/Y=",
+      "url": "img\/pizzas\/salad.jpg"
+    },
+    {
+      "hash": "sha256-3klbU3YdAQtsERKu+TV\/CG8qzmU8\/O9OYEE6IPcMtdU=",
+      "url": "img\/user.svg"
+    },
+    {
+      "hash": "sha256-vDYg+iekGp1GmyxfwgNYIdP4mrzF6hZ74nuandrbV\/g=",
       "url": "index.html"
     },
     {
@@ -205,12 +205,28 @@
       "url": "_content\/BlazingPizza.ComponentsLibrary\/pushNotifications.js"
     },
     {
-      "hash": "sha256-m3eJSjA1Vr+fVdn5h1Ih3DRE4zXY0QiKgrI6WhS+4O4=",
+      "hash": "sha256-GKRon0O4kJDaMErjt4fgwvjyeAaivoMAAcLWnT+vfVQ=",
       "url": "_framework\/_bin\/BlazingPizza.Client.dll"
     },
     {
-      "hash": "sha256-ycn\/UHLnjC77BNvsurP4mkuYP8oud1oVyfSSlZKMymc=",
-      "url": "_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+      "hash": "sha256-pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=",
+      "url": "_framework\/_bin\/System.Text.Json.dll"
+    },
+    {
+      "hash": "sha256-fom8\/iCIAJjiOFGTfsevXMd0zQP6\/nFmuTkPAk1OBqs=",
+      "url": "_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll"
+    },
+    {
+      "hash": "sha256-jZljmuzTfygesduHdmYslJFWQa3rWROeKj4fTctnZ6Y=",
+      "url": "_framework\/_bin\/mscorlib.dll"
+    },
+    {
+      "hash": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
+      "url": "_framework\/_bin\/System.Buffers.dll"
+    },
+    {
+      "hash": "sha256-OBWh2or+2mU6elwqPfmL72FBZVKl2WzTJ4L\/IrKeXM4=",
+      "url": "_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll"
     },
     {
       "hash": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
@@ -235,10 +251,6 @@
     {
       "hash": "sha256-\/cPXlNTX8GKF\/lIn\/2DIjtxTe0Wpy4ZDcyAj67b6JYk=",
       "url": "_framework\/_bin\/System.Memory.dll"
-    },
-    {
-      "hash": "sha256-jZljmuzTfygesduHdmYslJFWQa3rWROeKj4fTctnZ6Y=",
-      "url": "_framework\/_bin\/mscorlib.dll"
     },
     {
       "hash": "sha256-0aqivAO0X5K3B2nwChaNSEcsAkLzgpLrie9iJ4qzLCY=",
@@ -301,16 +313,60 @@
       "url": "_framework\/_bin\/System.Data.dll"
     },
     {
+      "hash": "sha256-TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=",
+      "url": "_framework\/_bin\/System.Threading.Tasks.Extensions.dll"
+    },
+    {
+      "hash": "sha256-qzsXTjb7unO1GhAc0iWak7r6gguCF3VWWCbARNDridE=",
+      "url": "_framework\/_bin\/System.Numerics.Vectors.dll"
+    },
+    {
+      "hash": "sha256-hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=",
+      "url": "_framework\/_bin\/System.Text.Encodings.Web.dll"
+    },
+    {
+      "hash": "sha256-ls43IHZIcpy7JrsSJ3zybrgFcmNaPp7ErQVQK\/9m0vI=",
+      "url": "_framework\/_bin\/System.Net.Http.Json.dll"
+    },
+    {
+      "hash": "sha256-ycn\/UHLnjC77BNvsurP4mkuYP8oud1oVyfSSlZKMymc=",
+      "url": "_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
+      "hash": "sha256-v4LhihP26fP\/dVajppSCZIrCVbkiALCJgAisyG2cmJQ=",
+      "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
+      "hash": "sha256-e0FY4g2Vt8TsXfafkXU2XnUgcYzjzPiFqb3KCylDb74=",
+      "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
+      "hash": "sha256-tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=",
+      "url": "_framework\/_bin\/System.ComponentModel.Annotations.dll"
+    },
+    {
+      "hash": "sha256-4vEvGLztX42bc61\/obHWFyGEOZkoMNPNAgycgz8WZqg=",
+      "url": "_framework\/_bin\/System.ComponentModel.DataAnnotations.dll"
+    },
+    {
       "hash": "sha256-jqp6xS5jDFDsISGorhiYZQ2if3hAiols6d4C5BNnMQ4=",
       "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
-      "url": "_framework\/_bin\/System.Buffers.dll"
-    },
-    {
       "hash": "sha256-45ia6XmGIa5WI3cHUIE9KhVornlZleYW+B5FPpfD1wQ=",
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
+      "hash": "sha256-tysmG2vZEPncFke7qQaRrIVJTWDSHfq2MMRM8XT6o7U=",
+      "url": "_framework\/_bin\/BlazingPizza.Shared.dll"
+    },
+    {
+      "hash": "sha256-hAW2Z5kRBHIEFITs8WlpSjYigGfMvpEYQKlYbZxIGYI=",
+      "url": "_framework\/_bin\/BlazingPizza.ComponentsLibrary.dll"
+    },
+    {
+      "hash": "sha256-K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=",
+      "url": "_framework\/_bin\/Microsoft.JSInterop.dll"
     },
     {
       "hash": "sha256-okt5R9jazrJNCSXDmVKldJ7\/t1rrEEnsKoKC+qQoIVE=",
@@ -329,16 +385,8 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-fom8\/iCIAJjiOFGTfsevXMd0zQP6\/nFmuTkPAk1OBqs=",
-      "url": "_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll"
-    },
-    {
       "hash": "sha256-hoWHDXjvnwhCjdzGEttP1cAk+piZymOWoDY9SJTN6Y0=",
       "url": "_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll"
-    },
-    {
-      "hash": "sha256-hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=",
-      "url": "_framework\/_bin\/System.Text.Encodings.Web.dll"
     },
     {
       "hash": "sha256-Lm4UU3qGx2PhK4UUD9zbupg1jfs5gOqCDVX7uGkLd\/0=",
@@ -361,48 +409,20 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll"
     },
     {
-      "hash": "sha256-pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=",
-      "url": "_framework\/_bin\/System.Text.Json.dll"
-    },
-    {
-      "hash": "sha256-OBWh2or+2mU6elwqPfmL72FBZVKl2WzTJ4L\/IrKeXM4=",
-      "url": "_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll"
-    },
-    {
-      "hash": "sha256-TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=",
-      "url": "_framework\/_bin\/System.Threading.Tasks.Extensions.dll"
-    },
-    {
-      "hash": "sha256-qzsXTjb7unO1GhAc0iWak7r6gguCF3VWWCbARNDridE=",
-      "url": "_framework\/_bin\/System.Numerics.Vectors.dll"
-    },
-    {
-      "hash": "sha256-K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=",
-      "url": "_framework\/_bin\/Microsoft.JSInterop.dll"
-    },
-    {
       "hash": "sha256-Sljk6nvSPSpTCrJ6+bd12XiNuOwqOHEKHPSBoINTtWo=",
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-v4LhihP26fP\/dVajppSCZIrCVbkiALCJgAisyG2cmJQ=",
-      "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll"
-    },
-    {
-      "hash": "sha256-e0FY4g2Vt8TsXfafkXU2XnUgcYzjzPiFqb3KCylDb74=",
-      "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll"
-    },
-    {
-      "hash": "sha256-tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=",
-      "url": "_framework\/_bin\/System.ComponentModel.Annotations.dll"
-    },
-    {
-      "hash": "sha256-4vEvGLztX42bc61\/obHWFyGEOZkoMNPNAgycgz8WZqg=",
-      "url": "_framework\/_bin\/System.ComponentModel.DataAnnotations.dll"
-    },
-    {
-      "hash": "sha256-wPAPUfqsIHIs5n4UapLjoRQi7lip14z0skceTA\/XsNA=",
+      "hash": "sha256-fJLvu6wVTBTju884VMjLjb+d4Re6ES+a2wjjiOyjREw=",
       "url": "_framework\/_bin\/BlazingPizza.Client.pdb"
+    },
+    {
+      "hash": "sha256-Mb\/Hkh\/FuIsD3\/Vh8Ncj\/ZWj0m\/wRv3ZEJdCIQh9nVc=",
+      "url": "_framework\/_bin\/BlazingPizza.Shared.pdb"
+    },
+    {
+      "hash": "sha256-cu3stWLsZ5rHistXhmnfz5cnYkAV2g5Jlgisvp96y24=",
+      "url": "_framework\/_bin\/BlazingPizza.ComponentsLibrary.pdb"
     },
     {
       "hash": "sha256-274clLanSGrn5tb3h9iFyKyVG0KYG2Um+VHF0kdNzHE=",
@@ -417,9 +437,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-DGq5z04\/EOryL\/yvlb5OT0VJLQZu9uXwFSFt3lJVxNM=",
+      "hash": "sha256-w\/7hx9SmKN3eJ7lGtGj5mS9JE4+NMbpOuCLmBLm6SEA=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "UUaBKotz"
+  "version": "IO1M2UCY"
 };
