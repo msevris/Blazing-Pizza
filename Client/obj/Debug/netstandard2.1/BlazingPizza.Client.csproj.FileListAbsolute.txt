@@ -588,3 +588,9 @@ C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\Razor\Pages\ConfigurePizzaDialog.razor.g.cs
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ConfiguredPizzaItem.razor.g.cs
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\Razor\Pages\ConfiguredPizzaItem.razor.g.cs
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\MyOrders.razor.g.cs
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\Razor\Pages\MyOrders.razor.g.cs
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderDetails.razor.g.cs
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\Razor\Pages\OrderDetails.razor.g.cs
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderReview.razor.g.cs
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\Razor\Pages\OrderReview.razor.g.cs

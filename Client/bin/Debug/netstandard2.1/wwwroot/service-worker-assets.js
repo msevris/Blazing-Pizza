@@ -205,7 +205,7 @@
       "url": "_content\/BlazingPizza.ComponentsLibrary\/pushNotifications.js"
     },
     {
-      "hash": "sha256-uAcxakpXljsGi8EAHuxap12WrnKvhvRKfFaxbSocP8s=",
+      "hash": "sha256-32aG8LfNM+BFKjg9bti1sucPNYR0BJa9FM6XXtRQ6j8=",
       "url": "_framework\/_bin\/BlazingPizza.Client.dll"
     },
     {
@@ -413,7 +413,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-RPMKrE+qKl8c8Oas1LtA+ABSIu0fLoq4UlVLDu+NPLk=",
+      "hash": "sha256-hoFYwgb5RJF8TUAblwVENSg1sMmaN3pRrRXzzdTuFvA=",
       "url": "_framework\/_bin\/BlazingPizza.Client.pdb"
     },
     {
@@ -437,9 +437,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-TdJOx6UiQd4OJe1A3Cd5x6o4ZH5ZbxQ+pfh5Aq3r+mw=",
+      "hash": "sha256-dRV93qqwif22lnihGQryOzXArsR8GnL7oRzXU3B+MdM=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "9qOMoO90"
+  "version": "\/EsVoLOj"
 };
