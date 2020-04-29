@@ -23,6 +23,7 @@ namespace BlazingPizza.Client
             #endregion
 
             builder.Services.AddBaseAddressHttpClient();
+            builder.Services.AddScoped<OrderState>();
 
             await builder.Build().RunAsync();
         }

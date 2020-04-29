@@ -205,7 +205,7 @@
       "url": "_content\/BlazingPizza.ComponentsLibrary\/pushNotifications.js"
     },
     {
-      "hash": "sha256-32aG8LfNM+BFKjg9bti1sucPNYR0BJa9FM6XXtRQ6j8=",
+      "hash": "sha256-9\/wfBFyddoTCAKfI0Z1O\/W2XQyy1tTK8ZNLplWVayqM=",
       "url": "_framework\/_bin\/BlazingPizza.Client.dll"
     },
     {
@@ -357,18 +357,6 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-tysmG2vZEPncFke7qQaRrIVJTWDSHfq2MMRM8XT6o7U=",
-      "url": "_framework\/_bin\/BlazingPizza.Shared.dll"
-    },
-    {
-      "hash": "sha256-hAW2Z5kRBHIEFITs8WlpSjYigGfMvpEYQKlYbZxIGYI=",
-      "url": "_framework\/_bin\/BlazingPizza.ComponentsLibrary.dll"
-    },
-    {
-      "hash": "sha256-K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=",
-      "url": "_framework\/_bin\/Microsoft.JSInterop.dll"
-    },
-    {
       "hash": "sha256-okt5R9jazrJNCSXDmVKldJ7\/t1rrEEnsKoKC+qQoIVE=",
       "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
@@ -409,11 +397,23 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll"
     },
     {
+      "hash": "sha256-K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=",
+      "url": "_framework\/_bin\/Microsoft.JSInterop.dll"
+    },
+    {
       "hash": "sha256-Sljk6nvSPSpTCrJ6+bd12XiNuOwqOHEKHPSBoINTtWo=",
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-hoFYwgb5RJF8TUAblwVENSg1sMmaN3pRrRXzzdTuFvA=",
+      "hash": "sha256-tysmG2vZEPncFke7qQaRrIVJTWDSHfq2MMRM8XT6o7U=",
+      "url": "_framework\/_bin\/BlazingPizza.Shared.dll"
+    },
+    {
+      "hash": "sha256-hAW2Z5kRBHIEFITs8WlpSjYigGfMvpEYQKlYbZxIGYI=",
+      "url": "_framework\/_bin\/BlazingPizza.ComponentsLibrary.dll"
+    },
+    {
+      "hash": "sha256-d9CGk8NGVlmsVnxSMnRMTUyHjFZw1x\/xSdhhXZ\/ExsI=",
       "url": "_framework\/_bin\/BlazingPizza.Client.pdb"
     },
     {
@@ -437,9 +437,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-dRV93qqwif22lnihGQryOzXArsR8GnL7oRzXU3B+MdM=",
+      "hash": "sha256-zRX2zQKlTtCHzUncFWv3VX3arkX++4tagYBaFfyus68=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "\/EsVoLOj"
+  "version": "kaSv5lJa"
 };
