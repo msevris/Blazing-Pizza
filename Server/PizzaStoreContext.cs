@@ -21,7 +21,7 @@ namespace BlazingPizza.Server
         {
             base.OnModelCreating(builder);
 
-            /* Seed the Toppings table */
+            #region /* Seed the Toppings table */
             builder.Entity<Topping>().HasData(new Topping(){Id = 1, Name = "Extra cheese",      Price = 2.50m});
             builder.Entity<Topping>().HasData(new Topping(){Id = 2, Name = "American bacon",    Price = 2.99m});
             builder.Entity<Topping>().HasData(new Topping(){Id = 3, Name = "British bacon",     Price = 2.99m});
@@ -46,8 +46,10 @@ namespace BlazingPizza.Server
             
             builder.Entity<Topping>().HasData(new Topping(){Id = 21,Name = "Buffalo chicken",   Price = 1.50m});
             builder.Entity<Topping>().HasData(new Topping(){Id = 22,Name = "Blue cheese",       Price = 1.50m});
+            #endregion
 
-            /* Seed the Pizza Specials table*/
+            #region /* Seed the Pizza Specials table*/
+            
             builder.Entity<PizzaSpecial>().HasData(new PizzaSpecial()
             {
                 Id = 1,
@@ -112,7 +114,7 @@ namespace BlazingPizza.Server
                 BasePrice = 9.99m,
                 ImageUrl = "img/pizzas/margherita.jpg"
             });
-
+            #endregion
 
 
             /* Configure a many to many relation  "special -> topping" relationship */

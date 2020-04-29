@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,7 @@ namespace BlazingPizza.Server
 {
     [Route("orders")]
     [ApiController]
+    [Authorize]
     public class OrdersController : Controller
     {
         private readonly PizzaStoreContext _db;

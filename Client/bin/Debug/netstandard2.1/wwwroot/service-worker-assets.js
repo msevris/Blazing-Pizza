@@ -205,7 +205,7 @@
       "url": "_content\/BlazingPizza.ComponentsLibrary\/pushNotifications.js"
     },
     {
-      "hash": "sha256-9\/wfBFyddoTCAKfI0Z1O\/W2XQyy1tTK8ZNLplWVayqM=",
+      "hash": "sha256-QAtR00cDvXG87FNwOheNOkDV+vF1hkIAdC2S30yeY8E=",
       "url": "_framework\/_bin\/BlazingPizza.Client.dll"
     },
     {
@@ -357,6 +357,34 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
+      "hash": "sha256-BtmCN70eyWgG6+dX3KD7BiVi9x+E1fMLSAdb1a84sHM=",
+      "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.Authorization.dll"
+    },
+    {
+      "hash": "sha256-b6UoUDhAs2puarT1\/fueQ9IcLvLvpvVFDNy4Vt8NQ7k=",
+      "url": "_framework\/_bin\/Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "hash": "sha256-oAIlpv09S\/0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=",
+      "url": "_framework\/_bin\/Microsoft.Extensions.Options.dll"
+    },
+    {
+      "hash": "sha256-DG1MjidH81NA50uWH63eWmXLCxt18sJzoF2oXVlyvlY=",
+      "url": "_framework\/_bin\/Microsoft.Extensions.Primitives.dll"
+    },
+    {
+      "hash": "sha256-mGxCo8RCg5LTzsGbr4Sgjv8uRjDw9eZ78Uoxhcr5hzY=",
+      "url": "_framework\/_bin\/Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
+      "hash": "sha256-q3FsURSfdfSw6vL7mknMOiWL0nq8tWisho\/qFQeVftY=",
+      "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll"
+    },
+    {
+      "hash": "sha256-K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=",
+      "url": "_framework\/_bin\/Microsoft.JSInterop.dll"
+    },
+    {
       "hash": "sha256-okt5R9jazrJNCSXDmVKldJ7\/t1rrEEnsKoKC+qQoIVE=",
       "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
@@ -367,10 +395,6 @@
     {
       "hash": "sha256-ZYN62bPD91Up1FNszybPL1hOaZt5KstyCQ+ZxbZ3FzE=",
       "url": "_framework\/_bin\/Microsoft.Extensions.Configuration.dll"
-    },
-    {
-      "hash": "sha256-DG1MjidH81NA50uWH63eWmXLCxt18sJzoF2oXVlyvlY=",
-      "url": "_framework\/_bin\/Microsoft.Extensions.Primitives.dll"
     },
     {
       "hash": "sha256-hoWHDXjvnwhCjdzGEttP1cAk+piZymOWoDY9SJTN6Y0=",
@@ -397,15 +421,11 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll"
     },
     {
-      "hash": "sha256-K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=",
-      "url": "_framework\/_bin\/Microsoft.JSInterop.dll"
-    },
-    {
       "hash": "sha256-Sljk6nvSPSpTCrJ6+bd12XiNuOwqOHEKHPSBoINTtWo=",
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-tysmG2vZEPncFke7qQaRrIVJTWDSHfq2MMRM8XT6o7U=",
+      "hash": "sha256-MD3rteuKdy4XNN7tOtD0pr6e3AxUWYALjIV7hDJej+U=",
       "url": "_framework\/_bin\/BlazingPizza.Shared.dll"
     },
     {
@@ -413,11 +433,11 @@
       "url": "_framework\/_bin\/BlazingPizza.ComponentsLibrary.dll"
     },
     {
-      "hash": "sha256-d9CGk8NGVlmsVnxSMnRMTUyHjFZw1x\/xSdhhXZ\/ExsI=",
+      "hash": "sha256-nbIQMXfKRqX4DbgcC38TmxVbRL\/bvRk0BJlgVcIG\/Pw=",
       "url": "_framework\/_bin\/BlazingPizza.Client.pdb"
     },
     {
-      "hash": "sha256-Mb\/Hkh\/FuIsD3\/Vh8Ncj\/ZWj0m\/wRv3ZEJdCIQh9nVc=",
+      "hash": "sha256-hw4bomSc748LlXTDq5dZrLXwRnDZ2xXkCJZ4JsR5DCE=",
       "url": "_framework\/_bin\/BlazingPizza.Shared.pdb"
     },
     {
@@ -437,9 +457,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-zRX2zQKlTtCHzUncFWv3VX3arkX++4tagYBaFfyus68=",
+      "hash": "sha256-7Pg2dHkfl6GT8llhWvCPrxLireotROmG\/AT4fpmm9Sk=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "kaSv5lJa"
+  "version": "IUym4mxO"
 };
