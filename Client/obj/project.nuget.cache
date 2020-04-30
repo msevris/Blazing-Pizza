@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fxqGUasl+o33+h17Zng7/271ohxkV2AJDEv17JlEgURSQsdqqJ5HjncQqj1VanznN7rJBK64R52hwpCAu4Sb3g==",
+  "dgSpecHash": "r86F+sKO77p0fivKHgr4fqM6L/vA0jzE5vPsqJT5gRKPrD7bDDetBF5rYcVnXd1klLGyiqnMH7hbSTdPiM2BzQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ntfx\\source\\repos\\msevris\\BLAZOR\\_blazingPizza\\BlazingPizza\\Client\\BlazingPizza.Client.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,6 @@
     "C:\\Users\\ntfx\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.components.webassembly.3.2.0-preview3.20168.3.nupkg.sha512",
     "C:\\Users\\ntfx\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.components.webassembly.authentication.3.2.0-preview3.20168.3.nupkg.sha512",
     "C:\\Users\\ntfx\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.components.webassembly.build.3.2.0-preview3.20168.3.nupkg.sha512",
-    "C:\\Users\\ntfx\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\3.2.0-preview5.20216.8\\microsoft.aspnetcore.components.webassembly.devserver.3.2.0-preview5.20216.8.nupkg.sha512",
     "C:\\Users\\ntfx\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0-preview3.20168.1\\microsoft.aspnetcore.components.webassembly.runtime.3.2.0-preview3.20168.1.nupkg.sha512",
     "C:\\Users\\ntfx\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.3\\microsoft.aspnetcore.metadata.3.1.3.nupkg.sha512",
     "C:\\Users\\ntfx\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

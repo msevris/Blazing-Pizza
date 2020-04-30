@@ -7,7 +7,9 @@ namespace BlazingPizza.Server
 {
     public class PizzaStoreContext : ApiAuthorizationDbContext<PizzaStoreUser>
     {
-        public PizzaStoreContext(DbContextOptions options,IOptions<OperationalStoreOptions> operationalStoreOptions) :base(options,operationalStoreOptions)
+        public PizzaStoreContext(
+            DbContextOptions options,
+            IOptions<OperationalStoreOptions> operationalStoreOptions) :base(options,operationalStoreOptions)
         { 
         }
 

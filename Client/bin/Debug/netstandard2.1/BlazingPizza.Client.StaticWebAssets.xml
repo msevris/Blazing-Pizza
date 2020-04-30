@@ -1,5 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
   <ContentRoot BasePath="/" Path="C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\bin\Debug\netstandard2.1\wwwroot\" />
   <ContentRoot BasePath="_content/BlazingPizza.ComponentsLibrary" Path="C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza.ComponentsLibrary\wwwroot\" />
-  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\ntfx\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\3.2.0-preview3.20168.3\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\ntfx\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\3.2.0-preview5.20216.8\build\..\staticwebassets\" />
 </StaticWebAssets>

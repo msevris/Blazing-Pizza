@@ -44,5 +44,9 @@ namespace BlazingPizza.Client
             ConfiguringPizza = null;
             ShowingConfigureDialog = false;
         }
+        public void ReplaceOrder(Order order)
+        {
+            Order = order;
+        }
     }
 }

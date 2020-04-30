@@ -1,12 +1,30 @@
 ﻿@page "/myorders"
 @inject HttpClient HttpClient
+@inject NavigationManager NavigationManager
+@inject IAccessTokenProvider TokenProvider 
 
 
 @code{
 
     List<OrderWithStatus> ordersWithStatus;
+
     protected override async Task OnParametersSetAsync()
     {
+        var tokenResult = await TokenProvider.RequestAccessToken();
+        if (tokenResult.TryGetToken(out var accessToken))
+        {
+            var request = new HttpRequestMessage(HttpMethod.Get, "orders");
+            request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", accessToken.Value);
+            var response = await HttpClient.SendAsync(request);
+            ordersWithStatus = await response.Content.ReadFromJsonAsync<List<OrderWithStatus>>();
+        }
+        else
+        {
+            NavigationManager.NavigateTo(tokenResult.RedirectUrl);
+        }
+
+
+
         ordersWithStatus = await HttpClient.GetFromJsonAsync<List<OrderWithStatus>>("orders");
     }
 }

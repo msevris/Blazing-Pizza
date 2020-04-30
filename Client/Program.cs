@@ -1,6 +1,14 @@
-using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using Microsoft.Extensions.DependencyInjection;
+using System;
+using System.Net.Http;
+using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Text;
+using Microsoft.AspNetCore.Components.WebAssembly;
+using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
+using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
 
 
 namespace BlazingPizza.Client
@@ -11,22 +19,17 @@ namespace BlazingPizza.Client
         {
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
             builder.RootComponents.Add<App>("app");
-
-            #region // Default Implementation
-            //builder.Services.AddHttpClient("BlazingPizza.ServerAPI", client => client.BaseAddress = new Uri(builder.HostEnvironment.BaseAddress))
-            //    .AddHttpMessageHandler<BaseAddressAuthorizationMessageHandler>();
-
-            //// Supply HttpClient instances that include access tokens when making requests to the server project
-            //builder.Services.AddTransient(sp => sp.GetRequiredService<IHttpClientFactory>().CreateClient("BlazingPizza.ServerAPI"));
-
-            //builder.Services.AddApiAuthorization();
-            #endregion
-
+            
             builder.Services.AddBaseAddressHttpClient();
             builder.Services.AddScoped<OrderState>();
 
             /* add auth service */
-            builder.Services.AddApiAuthorization();
+            builder.Services.AddRemoteAuthentication<PizzaAuthenticationState, ApiAuthorizationProviderOptions>();
+            builder.Services.AddApiAuthorization(options =>
+            {
+                options.AuthenticationPaths.LogOutSucceededPath = "";
+                options.ProviderOptions.ConfigurationEndpoint = "_configuration/BlazingPizza.Client"; // temp
+            });
 
             await builder.Build().RunAsync();
         }
