@@ -59,6 +59,16 @@ using BlazingPizza.Client.Shared;
 
 #line default
 #line hidden
+#line 13 "C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\_Imports.razor"
+using BlazingPizza.ComponentsLibrary;
+
+#line default
+#line hidden
+#line 14 "C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\_Imports.razor"
+using BlazingPizza.ComponentsLibrary.Map;
+
+#line default
+#line hidden
 #line 1 "C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\Shared\LoginDisplay.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 

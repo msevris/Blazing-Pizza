@@ -12,7 +12,7 @@
     }
 }
 
-<ul class="user-info">
+<div class="user-info">
     @if (SignInManager.IsSignedIn(User))
     {
         <img src="~/img/user.svg" />
@@ -28,4 +28,4 @@
         <a class="sign-in" asp-area="Identity" asp-page="/Account/Register" asp-route-returnUrl="@returnUrl">Register</a>
         <a class="sign-in" asp-area="Identity" asp-page="/Account/Login" asp-route-returnUrl="@returnUrl">Login</a>
     }
-</ul>
+</div>

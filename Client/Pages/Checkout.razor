@@ -35,7 +35,8 @@
             var request = new HttpRequestMessage(HttpMethod.Post, "orders");
             request.Content = JsonContent.Create(OrderState.Order);
             request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", accessToken.Value);
-            var response = await HttpClient.PostAsJsonAsync("orders", OrderState.Order);
+            //var response = await HttpClient.PostAsJsonAsync("orders", OrderState.Order);
+            var response = await HttpClient.SendAsync(request);
             var newOrderId = await response.Content.ReadFromJsonAsync<int>();
             OrderState.ResetOrder();
             NavigationManager.NavigateTo($"myorders/{newOrderId}");
