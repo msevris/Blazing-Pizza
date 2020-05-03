@@ -1,18 +1,20 @@
 ﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace BlazingPizza.Server
 {
-    [Authorize]
+    
     [Route("orders")]
     [ApiController]
-    
+    [Authorize]
     public class OrdersController : Controller
     {
         private readonly PizzaStoreContext _db;
@@ -87,7 +89,8 @@ namespace BlazingPizza.Server
 
         private string GetUserId()
         {
-            return HttpContext.User.FindFirst("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name")?.Value;
+            //return HttpContext.User.FindFirst("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name")?.Value;
+            return HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier);
         }
 
         private static Task SendNotificationAsync(Order order, NotificationSubscription subscription, string message)

@@ -71,7 +71,7 @@
                     var request = new HttpRequestMessage(HttpMethod.Get, $"orders/{OrderId}");
                     request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", accessToken.Value);
                     var response = await HttpClient.SendAsync(request);
-                    orderWithStatus = await HttpClient.GetFromJsonAsync<OrderWithStatus>($"orders/{OrderId}");
+                    orderWithStatus = await response.Content.ReadFromJsonAsync<OrderWithStatus>();
                 }
                 catch (Exception ex)
                 {

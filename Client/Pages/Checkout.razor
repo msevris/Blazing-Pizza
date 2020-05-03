@@ -24,6 +24,19 @@
 </div>
 
 @code{
+    [CascadingParameter] public Task<AuthenticationState> AuthenticationStateTask { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        var authState = await AuthenticationStateTask;
+        if (!authState.User.Identity.IsAuthenticated)
+        {
+            /* The server wont accept orders from unauthorized users.
+               So! avoid making an error by making them log in at this point */
+            NavigationManager.NavigateTo("authentication/login?redirectUri=/checkout", true);
+        }
+    }
+
     bool isSubmitting;
     async Task PlaceOrder()
     {
