@@ -622,3 +622,13 @@ C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\Razor\Shared\ConfigurePizzaDialog.razor.g.cs
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\Razor\Shared\OrderReview.razor.g.cs
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\Razor\Shared\RedirectToLogin.razor.g.cs
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazingComponents.dll
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazingComponents.pdb
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazingComponents.dll.gz
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazingComponents.pdb.gz
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\bin\Debug\netstandard2.1\BlazingComponents.dll
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\bin\Debug\netstandard2.1\BlazingComponents.pdb
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazingComponents.dll.gz
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazingComponents.pdb.gz
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazingComponents.dll.gz.hash
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazingComponents.pdb.gz.hash

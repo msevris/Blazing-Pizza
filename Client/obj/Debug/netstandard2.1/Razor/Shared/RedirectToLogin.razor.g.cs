@@ -79,6 +79,11 @@ using BlazingPizza.ComponentsLibrary.Map;
 
 #line default
 #line hidden
+#line 15 "C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Client\_Imports.razor"
+using BlazingComponents;
+
+#line default
+#line hidden
     public partial class RedirectToLogin : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

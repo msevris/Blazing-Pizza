@@ -334,3 +334,5 @@ C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.dll
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.pdb
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.genruntimeconfig.cache
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\bin\Debug\netcoreapp3.1\BlazingComponents.dll
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\bin\Debug\netcoreapp3.1\BlazingComponents.pdb

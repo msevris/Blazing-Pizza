@@ -5,7 +5,6 @@
 @inject NavigationManager NavigationManager
 @inject IAccessTokenProvider TokenProvider
 @implements IDisposable
-
 <!-- #region UI -->
 
 <div class="main">
@@ -33,11 +32,10 @@
                 <div class="track-order-details">
                     <OrderReview Order="orderWithStatus.Order" />
                 </div>
+                <div class="track-order-map">
+                    <Map Zoom="13" Markers="orderWithStatus.MapMarkers" />
+                </div>
             </div>
-        </div>
-
-        <div class="track-order-map">
-            <Map Zoom="13" Markers="orderWithStatus.MapMarkers" />
         </div>
     }
 </div>

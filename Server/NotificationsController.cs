@@ -16,7 +16,6 @@ namespace BlazingPizza.Server
     public class NotificationsController : Controller
     {
         private readonly PizzaStoreContext _db;
-        private readonly IHttpContextAccessor _httpContextAccessor;
 
         public NotificationsController(PizzaStoreContext db)
         {

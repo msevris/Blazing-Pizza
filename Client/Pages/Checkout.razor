@@ -4,6 +4,7 @@
 @inject HttpClient HttpClient
 @inject NavigationManager NavigationManager 
 @inject IAccessTokenProvider TokenProvider
+@inject IJSRuntime JSRuntime
 
 <div class="main">
     <EditForm Model="OrderState.Order.DeliveryAddress" OnValidSubmit="PlaceOrder">
@@ -24,20 +25,42 @@
 </div>
 
 @code{
-    [CascadingParameter] public Task<AuthenticationState> AuthenticationStateTask { get; set; }
+    bool isSubmitting;
+    //[CascadingParameter] public Task<AuthenticationState> AuthenticationStateTask { get; set; }
 
-    protected override async Task OnInitializedAsync()
+    protected override void OnInitialized()
     {
-        var authState = await AuthenticationStateTask;
-        if (!authState.User.Identity.IsAuthenticated)
+        //var authState = await AuthenticationStateTask;
+        //if (!authState.User.Identity.IsAuthenticated)
+        //{
+        //    /* The server wont accept orders from unauthorized users.
+        //       So! avoid making an error by making them log in at this point */
+        //    NavigationManager.NavigateTo("authentication/login?redirectUri=/checkout", true);
+        //}
+        // In the background ask if they want to be notified about order updates
+        _ = RequestNotificationSubscriptionAsync();
+    }
+    
+    async Task RequestNotificationSubscriptionAsync()
+    {
+        var tokenResult = await TokenProvider.RequestAccessToken();
+        if (tokenResult.TryGetToken(out var accessToken))
         {
-            /* The server wont accept orders from unauthorized users.
-               So! avoid making an error by making them log in at this point */
-            NavigationManager.NavigateTo("authentication/login?redirectUri=/checkout", true);
+            var subscription = await JSRuntime.InvokeAsync<NotificationSubscription>("blazorPushNotifications.requestSubscription");
+            if (subscription != null)
+            {
+                var request = new HttpRequestMessage(HttpMethod.Put, "notifications/subscribe");
+                request.Content = JsonContent.Create(subscription);
+                request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", accessToken.Value);
+                await HttpClient.SendAsync(request);
+            }
+        }
+        else
+        {
+            NavigationManager.NavigateTo(tokenResult.RedirectUrl);
         }
     }
 
-    bool isSubmitting;
     async Task PlaceOrder()
     {
         isSubmitting = true;
@@ -58,7 +81,7 @@
         {
             NavigationManager.NavigateTo(tokenResult.RedirectUrl);
         }
-
-
     }
+
+
 }
