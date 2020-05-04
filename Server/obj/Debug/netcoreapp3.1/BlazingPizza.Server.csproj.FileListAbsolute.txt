@@ -313,9 +313,6 @@ C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\bin\
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\bin\Debug\netcoreapp3.1\BlazingPizza.Shared.pdb
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\bin\Debug\netcoreapp3.1\BlazingPizza.ComponentsLibrary.pdb
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.csprojAssemblyReference.cache
-C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.csproj.CoreCompileInputs.cache
-C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.RazorAssemblyInfo.cache
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.RazorAssemblyInfo.cs
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.AssemblyInfoInputs.cache
@@ -336,3 +333,8 @@ C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.genruntimeconfig.cache
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\bin\Debug\netcoreapp3.1\BlazingComponents.dll
 C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\bin\Debug\netcoreapp3.1\BlazingComponents.pdb
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\bin\Debug\netcoreapp3.1\WebPush.dll
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.csproj.CoreCompileInputs.cache
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Server\obj\Debug\netcoreapp3.1\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cache

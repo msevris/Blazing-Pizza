@@ -1,0 +1,12 @@
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\bin\Release\netstandard2.1\BlazingPizza.Shared.deps.json
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\bin\Release\netstandard2.1\BlazingPizza.Shared.dll
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\bin\Release\netstandard2.1\BlazingPizza.Shared.pdb
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\bin\Release\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\bin\Release\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\obj\Release\netstandard2.1\BlazingPizza.Shared.csprojAssemblyReference.cache
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\obj\Release\netstandard2.1\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\obj\Release\netstandard2.1\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\obj\Release\netstandard2.1\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\obj\Release\netstandard2.1\BlazingPizza.Shared.csproj.CopyComplete
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\obj\Release\netstandard2.1\BlazingPizza.Shared.dll
+C:\Users\ntfx\source\repos\msevris\BLAZOR\_blazingPizza\BlazingPizza\Shared\obj\Release\netstandard2.1\BlazingPizza.Shared.pdb
